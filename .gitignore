@@ -1,0 +1,5 @@
+.claude/
+build/
+local/
+
+AGENTS.md
