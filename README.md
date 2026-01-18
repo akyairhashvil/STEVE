@@ -1,6 +1,4 @@
-# README.md
-
-# STEVE — Smart Terminal Executive & Versioning Environment
+# Smart Terminal Executive & Versioning Environment
 
 STEVE is a homely, deterministic, developer-friendly executive that turns intent into reproducible work: **design → research → plan → build → test → deploy**, with strict receipts and replayability.
 
